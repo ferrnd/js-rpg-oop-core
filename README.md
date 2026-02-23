@@ -30,3 +30,23 @@ mago.atacar(guerreiro);
 
 console.log(guerreiro.exibirStatus());
 console.log(mago.exibirStatus());
+
+## 📸 Execution Previews
+
+Here you can see the terminal output for each stage of the project development, demonstrating the OOP pillars in action:
+
+### 1. Abstraction
+Evidence of the base character class and initial object creation.
+![Abstraction](screenshots/abstracao.png)
+
+### 2. Encapsulation
+Demonstration of private fields protecting the life points (#vida) from external access.
+![Encapsulation](screenshots/encapsulamento.png)
+
+### 3. Inheritance
+Evidence of specialized classes (Mage and Archer) inheriting from the base class.
+![Inheritance](screenshots/heranca.png)
+
+### 4. Polymorphism
+Final combat demonstration showcasing unique attack behaviors for each class.
+![Polymorphism](screenshots/polimorfismo.png)
