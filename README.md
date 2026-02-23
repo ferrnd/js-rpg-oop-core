@@ -31,6 +31,8 @@ mago.atacar(guerreiro);
 console.log(guerreiro.exibirStatus());
 console.log(mago.exibirStatus());
 
+```
+
 ## 📸 Execution Previews
 
 Here you can see the terminal output for each stage of the project development, demonstrating the OOP pillars in action:
