@@ -35,18 +35,29 @@ console.log(mago.exibirStatus());
 
 Here you can see the terminal output for each stage of the project development, demonstrating the OOP pillars in action:
 
-### 1. Abstraction
-Evidence of the base character class and initial object creation.
-![Abstraction](screenshots/abstracao.png)
+<h2 align="center">🖥️ Project Previews</h2>
 
-### 2. Encapsulation
-Demonstration of private fields protecting the life points (#vida) from external access.
-![Encapsulation](screenshots/encapsulamento.png)
-
-### 3. Inheritance
-Evidence of specialized classes (Mage and Archer) inheriting from the base class.
-![Inheritance](screenshots/heranca.png)
-
-### 4. Polymorphism
-Final combat demonstration showcasing unique attack behaviors for each class.
-![Polymorphism](screenshots/polimorfismo.png)
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Abstraction</strong><br>
+        <img src="screenshots/abstracao.png" width="400" title="Abstraction">
+      </td>
+      <td align="center">
+        <strong>Encapsulation</strong><br>
+        <img src="screenshots/encapsulamento.png" width="400" title="Encapsulation">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Inheritance</strong><br>
+        <img src="screenshots/heranca.png" width="400" title="Inheritance">
+      </td>
+      <td align="center">
+        <strong>Polymorphism</strong><br>
+        <img src="screenshots/polimorfismo.png" width="400" title="Polymorphism">
+      </td>
+    </tr>
+  </table>
+</p>
