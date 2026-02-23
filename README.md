@@ -63,3 +63,14 @@ Here you can see the terminal output for each stage of the project development, 
     </tr>
   </table>
 </p>
+
+<h2 align="center">📊 System Architecture & Previews</h2>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td colspan="2" align="center">
+        <strong>Class Diagram (UML)</strong><br>
+        <img src="screenshots/diagrama.drawio.png" width="700">
+      </td>
+    </tr>
